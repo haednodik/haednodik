@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haednodik
 - 👀 I’m interested in software development, cybersecurity
-- 🌱 I’m currently learning responsive web design
+- 🌱 I’m currently learning responsive web design, XSS
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me haednodik@gmail.com
 
