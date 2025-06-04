@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haednodik
 - 👀 I’m interested in software development, cybersecurity
-- 🌱 I’m currently learning javascript algorithms and data structures, XSS
+- 🌱 I’m currently learning threat intelligence, network security, and risk management
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me haednodik@gmail.com
 
